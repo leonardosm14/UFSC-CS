@@ -8,3 +8,8 @@
 | Programação Concorrente              | 2024.2   | C, Python | [INE5410](https://github.com/leonardosm14/INE5410)                   |
 | Cálculo Numérico em Computadores     | 2024.2   | Python    | [INE5202](https://github.com/leonardosm14/INE5202)                   |
 | Organização de Computadores          | 2024.2   | Assembly (MIPS 32)  | [INE5411](https://github.com/leonardosm14/INE5411)                   |
+| Paradigmas de Programação     | 2025.1   | Várias    | [INE5416](https://github.com/leonardosm14/UFSC-CS)                   |
+| Engenharia de Software     | 2025.1   | Python    | [INE5411](https://github.com/leonardosm14/UFSC-CS)                   |
+| Teoria da Computação     | 2025.1   | -    | [INE5415](https://github.com/leonardosm14/UFSC-CS)                   |
+| Grafos     | 2025.1   | Python    | [INE5413](https://github.com/leonardosm14/UFSC-CS)                   |
+
