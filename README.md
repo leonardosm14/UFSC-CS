@@ -11,5 +11,5 @@
 | Paradigmas de Programação     | 2025.1   | Várias    | [INE5416](https://github.com/leonardosm14/UFSC-CS)                   |
 | Engenharia de Software     | 2025.1   | Python    | [INE5411](https://github.com/leonardosm14/UFSC-CS)                   |
 | Teoria da Computação     | 2025.1   | -    | [INE5415](https://github.com/leonardosm14/UFSC-CS)                   |
-| Grafos     | 2025.1   | Python    | [INE5413](https://github.com/leonardosm14/UFSC-CS)                   |
+| Grafos     | 2025.1   | C++    | [INE5413](https://github.com/leonardosm14/UFSC-CS)                   |
 
