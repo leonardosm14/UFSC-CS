@@ -9,7 +9,7 @@
 | Cálculo Numérico em Computadores     | 2024.2   | Python    | [INE5202](https://github.com/leonardosm14/INE5202)                   |
 | Organização de Computadores          | 2024.2   | Assembly (MIPS 32)  | [INE5411](https://github.com/leonardosm14/INE5411)                   |
 | Paradigmas de Programação     | 2025.1   | Haskell, LISP, Prolog    | [INE5416](https://github.com/leonardosm14/INE5416)                   |
-| Engenharia de Software     | 2025.1   | Python, DOG    | [INE5411](https://github.com/leonardosm14/splendor)                   |
+| Engenharia de Software     | 2025.1   | Python, DOG    | [INE5417](https://github.com/leonardosm14/splendor)                   |
 | Teoria da Computação     | 2025.1   | JFLAP    | [INE5415](https://github.com/leonardosm14/INE5415)                   |
 | Grafos     | 2025.1   | Python, C++    | [INE5413](https://github.com/leonardosm14/INE5413)                   |
 | Probabilidade e Estatística     | 2025.2   | Python, R    | [INE5405 🔒](https://github.com/leonardosm14/INE5405)                   |
