@@ -12,4 +12,7 @@
 | Engenharia de Software     | 2025.1   | Python, DOG    | [INE5411](https://github.com/leonardosm14/splendor)                   |
 | Teoria da Computação     | 2025.1   | JFLAP    | [INE5415](https://github.com/leonardosm14/INE5415)                   |
 | Grafos     | 2025.1   | Python, C++    | [INE5413](https://github.com/leonardosm14/INE5413)                   |
+| Probabilidade e Estatística     | 2025.2   | Python, R    | [INE5405 🔒](https://github.com/leonardosm14/INE5405)                   |
+| Computação Gráfica     | 2025.2   | Python    | [INE5420 🔒](https://github.com/leonardosm14/INE5420)                   |
+| Linguagens Formais e Compiladores     | 2025.2   | -    | [INE5421 🔒](https://github.com/leonardosm14/INE5421)                   |
 
