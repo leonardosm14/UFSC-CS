@@ -17,8 +17,8 @@
 | Linguagens Formais e Compiladores (INE5421)     | 2025.2   | Python                   | <div align="center"><a href="https://github.com/leonardosm14/GALS-INE5421">GALS INE5421</a></div>                                                                                                                                                                         |
 | Redes de Computadores II (INE5422)              | 2025.2   | Python                   | <div align="center"><a href="https://github.com/leonardosm14/INE5422">INE5422</a></div>                                                                                                                                                                                   |
 | Tecnologias Blockchain e Criptomoedas (INE5458) | 2025.2   | Solidity, Go ...         | <div align="center"><a href="https://github.com/leonardosm14/INE5458">INE5458</a><br><a href="https://github.com/julianamirbosio/EthoPharm-MVP">EthoPharm MVP</a></div> |
-| Sistemas Operacionais I | 2026.1 | C, C++ |    <div align="center"><a href="https://github.com/leonardosm14/INE5412">INE5412</a></div> |
-| Banco de Dados I | 2026.1 | SQLite, PostgreSQL |    <div align="center"><a href="https://github.com/leonardosm14/INE5613">INE5613</a></div> |
-| Construção de Compiladores | 2026.1 | C++, Python |    <div align="center"><a href="https://github.com/leonardosm14/ConvCC-2026-1">ConvCC-2026-1</a></div> |
-| Visão Computacional (Reconhecimento de Padrões) | 2026.1 | Python |    <div align="center"><a href="https://github.com/leonardosm14/boxe.ml">boxe.ml</a></div> |
+| Sistemas Operacionais I (INE5412) | 2026.1 | C, C++ |    <div align="center"><a href="https://github.com/leonardosm14/INE5412">INE5412</a></div> |
+| Banco de Dados I (INE5613) | 2026.1 | SQLite, PostgreSQL |    <div align="center"><a href="https://github.com/leonardosm14/INE5613">INE5613</a></div> |
+| Construção de Compiladores (INE5426) | 2026.1 | C++, Python |    <div align="center"><a href="https://github.com/leonardosm14/ConvCC-2026-1">ConvCC-2026-1</a></div> |
+| Visão Computacional - Reconhecimento de Padrões (INE5443) | 2026.1 | Python |    <div align="center"><a href="https://github.com/leonardosm14/boxe.ml">boxe.ml</a></div> |
 
